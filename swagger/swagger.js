@@ -7,7 +7,7 @@ const swaggerOptions = {
     info: {
       title: 'Delivery Management System API',
       version: '1.0.0',
-      description: 'API for managing deliveries, drivers, and routes.',
+      description: 'API for managing deliveries, drivers, and routes.', 
     },
     servers: [{ url: 'http://localhost:5000' }],
   },
