@@ -121,3 +121,12 @@ git add README.md
 git commit -m "Add detailed README with setup instructions"
 git push origin main
    
+##GitHub Repository
+   - https://github.com/divyanilal/DMS.git
+
+##Live Demo:
+   - Deployed on : render 
+   -live link:https://delivery-management-system.onrender.com
+
+## Swagger Document Link:
+   http://localhost:5000/api-docs/
